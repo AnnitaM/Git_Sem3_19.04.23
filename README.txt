@@ -1,1 +1,1 @@
-Это семинар 3
+This is third seminar
